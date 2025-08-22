@@ -12,7 +12,7 @@ ai-agent-portfolio/
 │       ├── README.md
 │       └── code/
 │
-├── assets/       # Images, diagrams, screenshots
+├── assets/       # Images, screenshots
 ├── LICENSE
 ├── README.md     # Main portfolio overview
 └── CONTRIBUTING.md

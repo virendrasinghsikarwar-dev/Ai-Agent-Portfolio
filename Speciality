@@ -1,0 +1,21 @@
+# 📩 Email Reply Agent  
+
+## Overview  
+The **Email Reply Agent** automates writing professional, human-like replies for clients.  
+It adapts tone, builds trust, and saves time in communication.  
+
+---
+
+## ✨ Features  
+- Generates natural, context-aware email replies  
+- Supports multiple tones (formal, casual, persuasive)  
+- Learns client-specific preferences  
+- Can integrate with Gmail API  
+
+---
+
+## 🚀 Quick Start  
+1. Clone repo:  
+   ```bash
+   git clone https://github.com/yourusername/ai-agent-portfolio.git
+   cd ai-agent-portfolio/agents/email-reply-agent
